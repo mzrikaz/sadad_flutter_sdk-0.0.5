@@ -47,6 +47,6 @@ android {
 }
 
 dependencies{
-    implementation 'com.github.mzrikaz:Sadad_SDK_Android:master-SNAPSHOT'
+    implementation 'com.github.mzrikaz:Sadad_SDK_Android:b8a4bbb9ceb733274334eb603ca3bbd5ba90ac98'
     implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.4.1")
 }
