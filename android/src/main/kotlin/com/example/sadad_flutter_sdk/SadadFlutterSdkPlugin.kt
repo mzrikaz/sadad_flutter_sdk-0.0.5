@@ -23,10 +23,10 @@ class SadadFlutterSdkPlugin : FlutterPlugin, MethodCallHandler, ActivityAware {
     private lateinit var channel: MethodChannel
     private lateinit var activity: Activity
 
-    override fun onMethodCall(@NonNull call: MethodCall, @NonNull result: Result, methodName: String) {
+    override fun onMethodCall(@NonNull call: MethodCall, @NonNull result: Result) {
         if (call.method == SADAD_CRATE_TRANSACTION) {
             val sadadTransaction = ArgumentsMapper().toSadadTransaction(call.arguments[0])
-            startSadadTransaction(sadadTransaction, result, call.arguments[1])
+            startSadadTransaction(sadadTransaction, result, call.arguments[1] as String)
         }
     }
 
