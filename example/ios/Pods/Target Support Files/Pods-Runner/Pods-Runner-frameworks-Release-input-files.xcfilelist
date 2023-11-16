@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-Runner/Pods-Runner-frameworks.sh
+${BUILT_PRODUCTS_DIR}/IQKeyboardManagerSwift/IQKeyboardManagerSwift.framework
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${PODS_ROOT}/../.symlinks/plugins/sadad_flutter_sdk/ios/Sadad/FrameworkForRealDevices/SadadPaymentSDK.framework
+${BUILT_PRODUCTS_DIR}/sadad_flutter_sdk/sadad_flutter_sdk.framework

@@ -1,0 +1,6 @@
+framework module sadad_flutter_sdk {
+  umbrella header "sadad_flutter_sdk-umbrella.h"
+
+  export *
+  module * { export * }
+}

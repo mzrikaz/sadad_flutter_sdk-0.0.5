@@ -1,0 +1,5 @@
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/IQKeyboardManagerSwift.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MDFInternationalization.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MaterialComponents.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/SadadPaymentSDK.framework
+${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/sadad_flutter_sdk.framework
